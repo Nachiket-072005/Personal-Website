@@ -52,6 +52,10 @@ hr {
     padding-top: 120px;
 }
 
+/* .top-container header nav a {
+    display: block;
+} */
+
 .bottom-cloud {
     position: absolute;
     left: 300px;
