@@ -33,7 +33,7 @@ a {
     margin: 10px 20px;
 }
 
-header nav {
+.nav-bar{
     /* border: 2px solid black; */
     height: 50px;
     display: flex;
